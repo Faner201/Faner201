@@ -25,4 +25,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Faner201&theme=tokyonight&hide_border=true&border_radius=10&ring=DD2727)](https://git.io/streak-stats)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Faner201&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faner201&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
