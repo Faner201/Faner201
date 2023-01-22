@@ -27,4 +27,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Faner201&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faner201&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faner201&layout=compact&theme=tokyonight&langs_count=10&hide=csharp)](https://github.com/anuraghazra/github-readme-stats)
